@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fireworks In Malta</title>
+        <link rel="icon" href="firework-red-transparent-png-image-art-11564013133sj7rmimgrf.png" type="image/x-icon">
+    </head>
+
+    <link rel="stylesheet" href="Style.css">
+    <body>
+        <header class="header">
+            <div class="overlay">
+                <br>
+                <br>
+                <br>
+                <br>
+                <h1>Fireworks In Malta</h1>
+            </div>
+        </header>
+
+        <div id="navbar">
+            <ul id="nav">
+            <li class="nav_item"><a href="HomePage.html"> Fireworks</a> </li>
+            <li class="nav_item"><a href="Harm On Environment.html">Harm On The Environment</a> </li>
+            <li class="nav_item"><a href="How You Can Help.html">How You Can Help</a> </li>
+            </ul>
+            </div>
+
+           <br>
+           <br>
+
+<img class="img_left" src="firework2.jpg" alt="Left Aligned Image">
+<h2> What Are Fireworks? </h2>
+<p class="what_are_fireworks"> Fireworks are devices that are often used for celebrations. When used, they shoot up into the sky and create colourful displays caused by chemical reactions. They originate from China, and were first used in the second century BC. Fireworks are made up of various parts including the <b>mortar</b>(cylinder holding the shell), <b>shell</b> (contains stars that create the illustrations in the sky and a lift charge that launches the shell into the sky), <b>black powder</b> (a type of gun powder made in China from sulfur, charcoal, and potassium nitrate), <b>lift charge</b> (this charge is made out of black powder and is located at the bottom of the shell. When ignited it shoots the shell out of the mortar and into the sky), <b>fuse</b> (carries heat to activate the black powder), <b>stars</b> (small pellets made from chemicals and are responsible for creating the sound and light effects in the firework when ignited), <b>burst charge</b> (ignites the stars located in the shell), and the <b>timed fuse</b> (activates the burst charge). 
+    <br>
+    <br>
+    When using a firework, the user lights a fuse to activate it. Until it reaches the bottom of the firework's main component, the shell, the heat moves along the fuse. Found at the bottom of the shell is the lift charge. The lift charge is ignited when the heat reaches the bottom. </p>
+
+
+<br>
+<img class="img_left" src="fireworks 3.jpg" alt="Left Aligned Image">
+   <p class="what_are_fireworks"> The black powder reacts when it gets ignited, producing heated gases and a lot of energy. These forces cause the shell to the quickly lifted out of the mortar. Stars, which are tiny pellets are located in the shell. Another fuse called the timed fuse, ignites and activates the the burst charge when the firework has reached a specific altitude. This causes the firework's stars to explode. 
+</p>
+
+
+<h2>Why Are Fireworks Significant In Malta?</h2>
+<p class="why_are_fireworks_significant_in_malta"> In Malta, fireworks have been used for centuries dating back to the 19th and 20th centuries. They were/are used to for celebrations in hinouring their ancestors. These celebrations include, but aren't limited to, feasts and honouring saints. These events often end in colourful firework displays. In Malta, the art of making fireworks has been passed on through generation after generation. Local, often family run, firework factories contribute to Malta's historical character and personality by creating spectacular and one-of-a kind displays that highlight their artistry and skill. As families and friends gather to observe the displays, these activities function as important social gatherings that strengthen social ties throughout communities and neighbourhoods.  </p>
+
+<br>
+<br>
+
+<img class="img_left" src="firework 1.jpg" alt="Left Aligned Image">
+<p class="why_are_fireworks_significant_in_malta"> Maltese pride and nationalism are evoked by fireworks, which are also essential to national holidays like Independence Day and feast of the Republic, among other. Furthermore, Malta organises a number of firework contests that draw competitors from all over the woorld emphasising the island's leadership in the field and encouraging global cooperation. These displays, which are recognised for their artistic skills, are frequently coordinated and synchronised with music to produce breathtaking visual experiences. 
+    <br>
+    <br>
+    Additionally, firecrackers, or in maltese "petards", are smaller, simpler versions of fireworks. However, they don't launch up into the sky. Instead, they make a loud noise. Petards are usually homemade out of gunpowder and some cardboard or paper. The petards are also used to celebrate cultural events, although these are more likely to be used in small towns around neighbourhoods instead of on the seafront. 
+    
+    <br> 
+    <br>
+    All things considered, Malta's fireworks symbolise so much more than just amusement; they are a symbol of custom, friendship, and the rich cultural diversity of the Maltese people.  </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class='footer'>
+    
+    <button type="button" class="backtotop" onclick="scrollToTop()">Back To Top</button>
+    <p class="ftext">Celebrate Responsibly: Let's Reduce Waste and Save Our Island</p>
+
+    <script>
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+    </script>
+</div>
+
+
+</html>
